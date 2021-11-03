@@ -21,8 +21,6 @@
   <img align="center" alt="Matheus-Sql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Matheus-Sql" height="auto" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-    ![code_Java_programming_life-1920417 jpg!d](https://user-images.githubusercontent.com/47402274/140153480-f7baa33d-9806-4c78-a6fb-af0d8124c534.png)
-
   ##
   
   <div> 
